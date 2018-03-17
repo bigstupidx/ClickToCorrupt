@@ -1,0 +1,43 @@
+Lang Code	EN	PL	ES	DE	FR	JP
+^text_play	Play now!	Zagraj teraz!	Jugar ahora!	Jetzt spielen!	Joue maintenant!	プレイ
+^text_quit	Quit	Wyjdź	Salida	Ausgang	Quitter	退出する
+^text_settings	Settings	Ustawienia	Configuración	Einstellungen	Réglages	設定
+^text_with_two_params	Parameter1: {0} Parameter2: {1}	Parametr1: {0} Parametr2: {1}	Parámetro1: {0} Parámetro2: {1}	Parameter1: {0} Parameter2: {1}	Paramètre1: {0} Paramètre2: {1}	パラメーター {0} パラメーター {1}
+^text_with_new_lines	Settings\nSettings	Ustawienia\nUstawienia	Configuración\nConfiguración	Einstellungen\nEinstellungen	Réglages\nRéglages	設定\n設定
+^text_new_lines_and_params	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Parametr1: {0}\nParametr2: {1}\nParametr3: {2}	Parámetro1: {0}\nParámetro2: {1}\nParámetro3: {2}	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Paramètre1: {0}\nParamètre2: {1}\nParamètre3: {2}	パラメーター {0}\n パラメーター {1}\n パラメーター {2}
+^language	LANGUAGE	LINGUA	IDIOMA	SPRACHE	LANGUE	言語
+^text_storage	STORAGE	ARMAZENAMENTO				
+^text_functions	FUNCTIONS	CARGOS				
+^text_mayor	Become Mayor	Se torne Prefeito				
+^text_governor	Become Governor	Se torne Governador				
+^text_president	Become President	Se torne Presidente				
+^text_house	Buy a House	Compre uma casa				
+^text_apartamento	Buy an Apartment	Compre um Apartamento				
+^text_mansion	Buy a Mansion	Compre uma Mansao				
+^text_bank	Buy a Bank	Compre um Banco				
+^text_castle	Buy a castle	Compre um Castelo				
+^text_casino	Buy a Casino	Compre um Cassino				
+^text_tmayor	You already are a Mayor!	Voce ja e um Prefeito!				
+^text_tgovernor	You already are a Governor!	Voce ja e um Governador!				
+^text_tpresident	You already are a President!	Voce ja e um Presidente!				
+^text_thouse	You already have a House!	Voce ja tem uma Casa!				
+^text_tapartment	You already have an Apartment	Voce ja tem um Apartamento!				
+^text_tmansion	You already have a Mansion!	Voce ja tem uma Mansao!				
+^text_tbank	You already have a Bank!	Voce ja tem um Banco!				
+^text_tcassino	You already have a Cassino!	Voce ja tem um Cassino!				
+^text_unlocks	UNLOCKS	DESBLOQUEIA				
+^text_capacity	CAPACITY	CAPACIDADE				
+^text_mayorupgrades	Mayor Upgrades	Prefeito Upgrades				
+^text_governorupgrades	Governor Upgrades	Governador Upgrades				
+^text_presidentupgrades	President Upgrades	Presidente Upgrades				
+^text_properties	STORAGE PROPERTIES	PROPRIEDADES				
+^text_shop	SHOP	LOJA				
+^text_becomemayor	Become a Mayor to unlock the next 5 upgrades!	Se torne um Prefeito para desbloquear os próximos 5 upgrades!				
+^text_becomegovernor	Become a Governor to unlock the next 5 upgrades!	Se torne um Governador para desbloquear os próximos 5 upgrades!				
+^text_becomepresident	Become a President to unlock the next 5 upgrades!	Se torne um Presidente para desbloquear os próximos 5 upgrades!				
+^click	Click 2x	Clique 2x				
+^text_stealpens	Steal pens from office	Roubar canetas do escritório				
+^text_stealchange	Steal change	Roubar troco				
+^text_evadetaxes	Evade taxes	Sonegar impossto				
+^text_buyvotes	Buy votes	Comprar votos				
+^text_contractstooge	Contract a stooge	Contratar um laranja				

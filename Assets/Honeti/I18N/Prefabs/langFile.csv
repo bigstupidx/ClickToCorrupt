@@ -1,0 +1,67 @@
+Lang Code	EN	PL	ES	DE	FR	JP
+^text_play	Play now!	Zagraj teraz!	Jugar ahora!	Jetzt spielen!	Joue maintenant!	プレイ
+^text_quit	Quit	Wyjdź	Salida	Ausgang	Quitter	退出する
+^text_settings	Settings	Ustawienia	Configuración	Einstellungen	Réglages	設定
+^text_with_two_params	Parameter1: {0} Parameter2: {1}	Parametr1: {0} Parametr2: {1}	Parámetro1: {0} Parámetro2: {1}	Parameter1: {0} Parameter2: {1}	Paramètre1: {0} Paramètre2: {1}	パラメーター {0} パラメーター {1}
+^text_with_new_lines	Settings\nSettings	Ustawienia\nUstawienia	Configuración\nConfiguración	Einstellungen\nEinstellungen	Réglages\nRéglages	設定\n設定
+^text_new_lines_and_params	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Parametr1: {0}\nParametr2: {1}\nParametr3: {2}	Parámetro1: {0}\nParámetro2: {1}\nParámetro3: {2}	Parameter1: {0}\nParameter2: {1}\nParameter3: {2}	Paramètre1: {0}\nParamètre2: {1}\nParamètre3: {2}	パラメーター {0}\n パラメーター {1}\n パラメーター {2}
+^language	LANGUAGE	JĘZYK	IDIOMA	SPRACHE	LANGUE	言語
+^text_storage	STORAGE	ARMAZENAMENTO				
+^text_functions	FUNCTIONS	CARGOS				
+^text_mayor	Become Mayor	Se torne Prefeito				
+^text_governor	Become Governor	Se torne Governador				
+^text_president	Become President	Se torne Presidente				
+^text_house	Buy a House	Compre uma casa				
+^text_apartamento	Buy an Apartment	Compre um Apartamento				
+^text_mansion	Buy a Mansion	Compre uma Mansao				
+^text_bank	Buy a Bank	Compre um Banco				
+^text_castle	Buy a castle	Compre um Castelo				
+^text_casino	Buy a Casino	Compre um Cassino				
+^text_tmayor	You already are a Mayor!	Voce ja e um Prefeito!				
+^text_tgovernor	You already are a Governor!	Voce ja e um Governador!				
+^text_tpresident	You already are a President!	Voce ja e um Presidente!				
+^text_thouse	You already have a House!	Voce ja tem uma Casa!				
+^text_tapartment	You already have an Apartment	Voce ja tem um Apartamento!				
+^text_tmansion	You already have a Mansion!	Voce ja tem uma Mansao!				
+^text_tbank	You already have a Bank!	Voce ja tem um Banco!				
+^text_tcasino	You already have a Cassino!	Voce ja tem um Cassino!				
+^text_unlocks	UNLOCKS	DESBLOQUEIA				
+^text_capacity	CAPACITY	CAPACIDADE				
+^text_mayorupgrades	Mayor Upgrades	Prefeito Upgrades				
+^text_governorupgrades	Governor Upgrades	Governador Upgrades				
+^text_presidentupgrades	President Upgrades	Presidente Upgrades				
+^text_properties	STORAGE PROPERTIES	PROPRIEDADES				
+^text_shop	SHOP	LOJA				
+^text_becomemayor	Become a Mayor to unlock the next 5 upgrades!	Se torne um Prefeito para desbloquear os proximos 5 upgrades!				
+^text_becomegovernor	Become a Governor to unlock the next 5 upgrades!	Se torne um Governador para desbloquear os proximos 5 upgrades!				
+^text_becomepresident	Become a President to unlock the next 5 upgrades!	Se torne um Presidente para desbloquear os proximos 5 upgrades!				
+^text_click	Click 2x	Clique 2x				
+^text_stealpens	Steal pens from office	Roubar canetas do escrit�rio				
+^text_stealchange	Steal change	Roubar troco				
+^text_evadetaxes	Evade taxes	Sonegar imposto				
+^text_buyvotes	Buy votes	Comprar votos				
+^text_contractstooge	Contract a stooge	Contratar um laranja				
+^text_laundermoney	Launder money	Lavar dinheiro				
+^text_contractlobbyist	Contract a Lobbyist	Contratar um Lobista				
+^text_contratlawyer	Contract a Lawyer	Contratar um Advogado				
+^text_swiss	Create a Swiss bank account	Criar uma conta na Suica				
+^text_divertmoney	Divert money from education	Desviar dinheiro da educacao				
+^text_hack	Hack the voting booths	Hackear as urnas eletronicas				
+^text_fakemoney	Print fake money	Falsificar dinheiro				
+^text_bribesenator	Bribe a Senator	Subornar um Senador				
+^text_bribeparty	Bribe a Political party	Subornar um partido politico				
+^text_bribejudge	Bribe a Judge	Subornar um Juiz				
+^text_rate	Rate this game!	Avalie o jogo!				
+^text_moregames	More Games!	Mais jogos!				
+^text_doublepersec	Double $/sec for 30 sec	Dobrar $/sec por 30 segundos				
+^text_instamoney	Get instantly money (50%)	Dinheiro instantaneo (50%)				
+^text_doublemoney	Double your money	Dobrar seu dinheiro				
+^text_watchvideo	Watch a video	Assistir video				
+^text_more	MORE	MAIS 				
+^text_changeportuguese	Change to Portuguese	Mudar para Portugues				
+^text_changetoenglish	Change to English	Mudar para Ingles				
+^text_tutorial1	Click here to earn money!	Clique aqui para ganhar dinheiro!				
+^text_tutorial2	Click here to have upgrades!	Clique aqui para ter upgrades!				
+^text_tutorial3	Click here to expand upgrades!	Clique aqui para expandir upgrades!				
+^text_tutorial4	Click here to earn more money!	Clique aqui para ganhar mais dinheiro!				
+^text_tcastle	You already have a Castle!	Voce ja tem um Castelo!				
